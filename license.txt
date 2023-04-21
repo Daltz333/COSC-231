@@ -1,0 +1,6 @@
+Copyright Dalton Smith 2023
+
+All Rights Reserved.
+
+This license grants the user access to view and observe this software in it's original form. No warranty is given or implied.
+Reuse of this software is not allowed for any purpose.
